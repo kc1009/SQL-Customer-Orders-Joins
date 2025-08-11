@@ -40,7 +40,7 @@ Joins can be nested and can also be used with more than 2 tables.
 
 FULL JOIN is useful when you need to see all records, matched or not.
 
-🛠 Tools Used
+##🛠 Tools Used
 MySQL Workbench – For creating and executing SQL queries
 
 DB Browser for SQLite – Optional, for testing in SQLite environment
