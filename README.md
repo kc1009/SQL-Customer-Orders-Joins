@@ -27,18 +27,22 @@ Relationship:
    - FULL JOIN (using `UNION` in MySQL)
 
 ---
-##  Key Concept 
-INNER JOIN → Returns only matching rows from both tables.
-LEFT JOIN → Returns all rows from the left table and matching rows from the right table.
-RIGHT JOIN → Returns all rows from the right table and matching rows from the left table.
-FULL JOIN → Combines all rows from both tables (MySQL requires UNION of LEFT and RIGHT joins).
-Joins can be nested and can also be used with more than 2 tables.
-FULL JOIN is useful when you need to see all records, matched or not.
+## 📖 Key Concepts Learned
+- INNER JOIN returns only matching rows from both tables.
+- LEFT JOIN returns all rows from the left table and matching rows from the right table.
+- RIGHT JOIN returns all rows from the right table and matching rows from the left table.
+- FULL JOIN returns all rows from both tables (in MySQL, simulated using UNION of LEFT and RIGHT JOIN).
+- Joins can be used on more than two tables.
+- FULL JOIN is useful for combining complete data sets, including unmatched rows.
+- Joins can be nested for complex queries.
+- Understanding relationships between tables is essential for effective joins.
+
 
 ---
 
-##  Tool Used
-**MySQL workbench:** 
-**github:** 
+## 🛠 Tools Used
+- MySQL Workbench – For creating and executing SQL queries.
+- GitHub – For storing and sharing project files.
+- VS Code  – For writing README.md and SQL scripts.
 
 
