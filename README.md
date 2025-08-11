@@ -27,26 +27,18 @@ Relationship:
    - FULL JOIN (using `UNION` in MySQL)
 
 ---
-📖 Key Concepts Learned
+##  Key Concept 
 INNER JOIN → Returns only matching rows from both tables.
-
 LEFT JOIN → Returns all rows from the left table and matching rows from the right table.
-
 RIGHT JOIN → Returns all rows from the right table and matching rows from the left table.
-
 FULL JOIN → Combines all rows from both tables (MySQL requires UNION of LEFT and RIGHT joins).
-
 Joins can be nested and can also be used with more than 2 tables.
-
 FULL JOIN is useful when you need to see all records, matched or not.
 
-##🛠 Tools Used
-MySQL Workbench – For creating and executing SQL queries
+---
 
-DB Browser for SQLite – Optional, for testing in SQLite environment
-
-GitHub – For storing and sharing project files
-
-VS Code / Any text editor – For writing README.md and SQL scripts
+##  Tool Used
+**MySQL workbench:** 
+**github:** 
 
 
